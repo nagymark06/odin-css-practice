@@ -1,0 +1,10 @@
+/* HTML style css file */
+
+.external {
+  color: white;
+  background-color: red;
+  font-family: "Times New Roman", serif;
+  font-size: 32px;
+  text-align: center;
+  font-weight: bold;
+}
