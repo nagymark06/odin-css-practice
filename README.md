@@ -1,1 +1,1 @@
-# odin-css-practiceIn this repo I am going to practice my CSS skills.
+In this repo I am going to practice my CSS skills.
