@@ -1,0 +1,21 @@
+/* This is the styles css file for the third exercise. */
+
+.first,
+.second {
+  font-size: 28px;
+  font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.first {
+  background-color: black;
+  color: white;
+}
+
+.second {
+  background-color: yellow;
+  color: black;
+}
+
+#boldtext {
+  text-weight: bold;
+}
