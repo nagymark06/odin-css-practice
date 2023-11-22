@@ -1,1 +1,0 @@
-CSS cascade practicing folder.
